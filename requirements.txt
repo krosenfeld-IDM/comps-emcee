@@ -1,1 +1,1 @@
-cowsay
+emodpy==1.22
