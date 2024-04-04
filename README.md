@@ -1,2 +1,2 @@
-# template-python-devtainer
-Template python devtainer/codespace
+# comps-emcee
+Running emcee on comps
